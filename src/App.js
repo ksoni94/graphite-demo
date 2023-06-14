@@ -1,5 +1,8 @@
-import logo from './logo.svg';
+
+import logo from './scooby-doo-logo-png-transparent.png'
 import './App.css';
+
+
 
 function App() {
   return (
