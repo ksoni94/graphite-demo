@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://graphite.dev"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Graphite
         </a>
       </header>
     </div>
